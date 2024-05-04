@@ -278,3 +278,4 @@ django_understanding/media/
 .ipython/
 .env
 .envs/*
+.idea
